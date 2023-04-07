@@ -2,7 +2,7 @@
 
 ## _Iniciando en el mundo de la programacion_
 
-Hola soy Yordy Carmona, soy de Chile, tengo 27 años.
+Hola soy Yordy Carmona, tengo 27 años, soy de Chile.
 Estoy iniciando mi proceso para aprender a programacion.
 
 ## 5 comandos para la terminal
